@@ -1,0 +1,33 @@
+{
+  "name": "template-inspect",
+  "version": "1.0.0",
+  "description": "Tag for template strings using util.inspect",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.3"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addaleax/template-inspect.git"
+  },
+  "keywords": [
+    "tag",
+    "template",
+    "util",
+    "inspect"
+  ],
+  "author": "Anna Henningsen <anna@addaleax.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addaleax/template-inspect/issues"
+  },
+  "homepage": "https://github.com/addaleax/template-inspect#readme"
+}
