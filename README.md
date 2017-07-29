@@ -7,7 +7,7 @@ template-inspect
 [![Coverage Status](https://coveralls.io/repos/addaleax/template-inspect/badge.svg?branch=master)](https://coveralls.io/r/addaleax/template-inspect?branch=master)
 [![Dependency Status](https://david-dm.org/addaleax/template-inspect.svg?style=flat)](https://david-dm.org/addaleax/template-inspect)
 
-Split an array evenly into chunks.
+Tag for template strings using util.inspect
 
 Install:
 `npm install template-inspect`
