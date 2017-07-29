@@ -1,6 +1,6 @@
 {
   "name": "template-inspect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tag for template strings using util.inspect",
   "main": "index.js",
   "directories": {
